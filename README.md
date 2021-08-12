@@ -1,2 +1,2 @@
-Practicas de clase
+Practicas de clase;
 Lab 031
